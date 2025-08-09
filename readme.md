@@ -6,7 +6,7 @@ This software tracks new internship openings from various sites which includes i
 
 1. Download the project code
    ```bash
-   git clone https://github.com/xzaviourr/InternTracker.git
+   git clone https://github.com/tejas7410/internscrapper
    ```
 2. Install virtual environment for python
    ```bash
